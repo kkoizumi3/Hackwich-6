@@ -16,6 +16,7 @@
 		3C49209A2AD60B8100D4CA6B /* Hackwich_6Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C4920992AD60B8100D4CA6B /* Hackwich_6Tests.swift */; };
 		3C4920A42AD60B8100D4CA6B /* Hackwich_6UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C4920A32AD60B8100D4CA6B /* Hackwich_6UITests.swift */; };
 		3C4920A62AD60B8100D4CA6B /* Hackwich_6UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C4920A52AD60B8100D4CA6B /* Hackwich_6UITestsLaunchTests.swift */; };
+		3CC6FA202ADCDB6000684FD7 /* secondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CC6FA1F2ADCDB6000684FD7 /* secondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		3C49209F2AD60B8100D4CA6B /* Hackwich 6UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Hackwich 6UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3C4920A32AD60B8100D4CA6B /* Hackwich_6UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hackwich_6UITests.swift; sourceTree = "<group>"; };
 		3C4920A52AD60B8100D4CA6B /* Hackwich_6UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hackwich_6UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		3CC6FA1F2ADCDB6000684FD7 /* secondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		3C4920762AD60B8000D4CA6B = {
 			isa = PBXGroup;
 			children = (
+				3CC6FA1F2ADCDB6000684FD7 /* secondViewController.swift */,
 				3C4920812AD60B8000D4CA6B /* Hackwich 6 */,
 				3C4920982AD60B8100D4CA6B /* Hackwich 6Tests */,
 				3C4920A22AD60B8100D4CA6B /* Hackwich 6UITests */,
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3CC6FA202ADCDB6000684FD7 /* secondViewController.swift in Sources */,
 				3C4920872AD60B8000D4CA6B /* ViewController.swift in Sources */,
 				3C4920832AD60B8000D4CA6B /* AppDelegate.swift in Sources */,
 				3C4920852AD60B8000D4CA6B /* SceneDelegate.swift in Sources */,
